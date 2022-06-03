@@ -13,5 +13,5 @@ const CONFIG = {
     mess: '=)))))))',
     messDesc: 'mot ang kem hoq:3',
     btnAccept: 'Okiiiii lun:333',
-    messLink: 'https://www.facebook.com/profile.php?id=100054855643542',
+    messLink: 'https://www.facebook.com/haitusgvn/posts/pfbid02epLCWoU4GmrR9CLdFtPC6xeR56P17CX9TaAusa1nB6MsCGtzDCnwHJ34emPVSShZl',
 }
