@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `hiiii gaaaaaaaa`,
     btnIntro: '^^nham^^',
     title: 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa',
-    desc: 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa ',
+    desc: 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'ieu khum',
